@@ -45,5 +45,5 @@ Professional portfolio website of **Upendra Sai Chaturvedula** — MCA Graduate,
 ## 📬 Contact & Links
 
 [![Email](https://img.shields.io/badge/Email-upendrasai1101%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upendrasai1101@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Upendra%20Sai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upendrasai1101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Upendra%20Sai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upendrasai-chaturvedula-0a7642343)
 [![GitHub](https://img.shields.io/badge/GitHub-Upendrasai1101-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Upendrasai1101)
